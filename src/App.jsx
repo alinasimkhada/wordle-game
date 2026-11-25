@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import GameBoard from "./components/Gameboard";
+import GameBoard from "./components/Gameboard.jsx";
 import Keyboard from "./components/Keyboard";
 import "./App.css";
 
